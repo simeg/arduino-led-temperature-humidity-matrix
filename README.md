@@ -1,4 +1,4 @@
-# Arduino LED Temperature Matrix
+# Arduino LED Temperature Matrix [![BuildStatus](https://travis-ci.org/simeg/arduino-led-temperature-humidity-matrix.svg?branch=master)](https://travis-ci.org/simeg/arduino-led-temperature-humidity-matrix)
 A project written for the Arduino Uno R3 to get temperature and humidity data and display it on a LED matrix.
 
 ## How it is used
