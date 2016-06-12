@@ -1,0 +1,11 @@
+language: cpp
+sudo: true
+install:
+  - sudo pip install -U platformio
+compiler:
+  - clang
+  - gcc
+env:
+ - BOARD=arduino:avr:uno
+script:
+  - platformio run
