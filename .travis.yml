@@ -6,6 +6,6 @@ compiler:
   - clang
   - gcc
 env:
- - BOARD=arduino:avr:uno
+  - BOARD=arduino:avr:uno
 script:
   - platformio run
